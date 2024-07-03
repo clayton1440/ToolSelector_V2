@@ -13,7 +13,6 @@ When another database is double-clicked in explorer or TSSL is launced with the 
 ToolSelector exports a CSV file that Velocity (Delmia Operations Portal) can parse and apply to the operation. An example CSV export is below:
 
 substituteflag|testid|notes|toolid|locationbuildingid|locationroomid
-
 ||Fluke 179 DMM|P147774||
 
 
