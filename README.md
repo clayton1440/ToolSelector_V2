@@ -10,10 +10,7 @@ ToolSelector SL (Super-Light) is an extremely lightweight application that only 
 When opened without arguments, ToolSelector SL loads the tools from the User's private database.
 When another database is double-clicked in explorer or TSSL is launced with the filepath as the first argument, only those tools are loaded.
 
-ToolSelector exports a CSV file that Velocity (Delmia Operations Portal) can parse and apply to the operation. An example CSV export is below:
-
-substituteflag|testid|notes|toolid|locationbuildingid|locationroomid
-||Fluke 179 DMM|P147774||
+ToolSelector exports a CSV file that Velocity (Delmia Operations Portal) can parse and apply to the operation. SampleExport.csv is located in root.
 
 
 ToolSelector_Setup is simply a packager that creates the .msi installer, as well as a setup.exe installer (that I have not tested).
