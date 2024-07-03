@@ -3,7 +3,6 @@ Import tools to the private tool database.
 Remarks:
 The option to replace the tools or simply append them to the end displays after file selection.
 
-
 Various file types are allowed:
 - ToolSelector Database (*.tsd)
 
