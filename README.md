@@ -11,8 +11,11 @@ When opened without arguments, ToolSelector SL loads the tools from the User's p
 When another database is double-clicked in explorer or TSSL is launced with the filepath as the first argument, only those tools are loaded.
 
 ToolSelector exports a CSV file that Velocity (Delmia Operations Portal) can parse and apply to the operation. An example CSV export is below:
+
 substituteflag|testid|notes|toolid|locationbuildingid|locationroomid
+
 ||Fluke 179 DMM|P147774||
+
 
 ToolSelector_Setup is simply a packager that creates the .msi installer, as well as a setup.exe installer (that I have not tested).
 The installer sets and modifies various keys in the Windows Registry, primarily for File Explorer context-menu entries. 
