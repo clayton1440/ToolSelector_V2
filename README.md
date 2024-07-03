@@ -1,5 +1,4 @@
 ToolSelector V2
-Designed for use at BAE Systems Inc (fka Ball Aerospace & Technologies)
 
 ToolSelector allows users to efficiently manage their tooling, and easily add selected tools to a Shop Order operation. 
 Users can link any number of Shared tool databases (residing on a network share, or otherwise selectable via File Explorer) to select from, as well as their own private database. 
@@ -36,3 +35,6 @@ Installation Instructions if ToolSelector Version 1 is installed:
 - In the 'Shared Tools' group, click the green Add button, then navigate to the desired location for the new shared tool file. Set the file name appropriately (extension must remain ".tsd", then click 'Save'. Repeat this step for each shared tool file to restore.
 - In the list of shared tool filepaths, select the newly added database, then click 'Import File'. In the open file dialog, switch the file extension filter in the lower-right to *.csv, then open the related tool backup. Repeat this step foe each shared tool file to restore.
 - Edit each tool database as required by clicking the appropriate 'Manual Edit' button.
+
+
+ToolSelector is designed for use at BAE Systems Inc (fka Ball Aerospace & Technologies)
