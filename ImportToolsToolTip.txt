@@ -1,8 +1,5 @@
 Import tools to the private tool database.
 
-Remarks:
-The option to replace the tools or simply append them to the end displays after file selection.
-
 Various file types are allowed:
 - ToolSelector Database (*.tsd)
 
@@ -13,5 +10,5 @@ Various file types are allowed:
 	Valid column names (first row, case insensitive):
 	- Tool ID: "ID", "Tool ID", "ToolID", "Control Number", "ControlNumber", "Property Tag", "P Tag", "P-Tag", "PTag"
 	- Description: "Description", "Desc", "Desc."
-	- Extended Description (Overrides Description): "Extended Description", "ExtendedDescription"
+	- Extended Description (Optional, overrides Description): "Extended Description", "ExtendedDescription"
 	- Calibration Due Date: "Calibration Due", "Calibration Due Date", "CalibrationDue", "Cal. Due", "Cal. Due Date", "Cal Due", "Cal Due Date"
