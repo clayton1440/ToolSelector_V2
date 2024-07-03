@@ -37,4 +37,4 @@ Installation Instructions if ToolSelector Version 1 is installed:
 - Edit each tool database as required by clicking the appropriate 'Manual Edit' button.
 
 
-ToolSelector is designed for use at BAE Systems Inc (fka Ball Aerospace & Technologies)
+ToolSelector is designed for use at BAE Systems Inc, Space & Mission Systems (fka Ball Aerospace & Technologies).
